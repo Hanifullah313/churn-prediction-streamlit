@@ -13,13 +13,8 @@ It is designed for telecom or subscription-based businesses seeking quick churn 
 
 ## 📸 Application Demo
 
-> *(Recommended: Add a screenshot or GIF of your running application here!)*
+> *( ( https://churn-prediction-app-hanifullah.streamlit.app /))*
 
-Example:
-
-```
-[Insert image: app_screenshot.png]
-```
 
 ---
 
@@ -171,8 +166,8 @@ This ensures that the exact same preprocessing steps are applied to both trainin
 
 ## 👥 Contributors
 
-- **Your Name** – *Developer & Maintainer*  
-- *(Add additional contributors if applicable)*
+- **Hanif Ullah** – *Developer & Maintainer*  
+
 
 ---
 
