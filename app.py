@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load your trained pipeline model
-model = joblib.load(r"C:\Users\Hanif ullah laptop\Desktop\Churn Prediction\artifacts\model.pkl")
+model = joblib.load("artifacts/model.pkl")
 
 def add_sidebar():
     st.sidebar.header("Customer Information")
