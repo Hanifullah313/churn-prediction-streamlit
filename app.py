@@ -68,7 +68,7 @@ def add_prediction(input_values):
     # Display prediction probability through a progress bar
     st.write("### Prediction Probability")
     st.progress(prob)
-    if prediction == 1:
+    if prob > 0.5:
         st.error(f"⚠️ The customer is likely to **CHURN** (Probability: {prob:.2f})")
     else:
         st.success(f"✅ The customer is likely to **STAY** (Probability: {prob:.2f})")
